@@ -12,10 +12,8 @@ author:
   name: 'Hiromu Tsuruta'
   email: h.crane.t@gmail.com
   twitter_username: hcrane14
-#  facebook_username: joshgerdes
   github_username:  crane-hiromu
   linkedin_username:  hiromu-t-940107187
-#  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
