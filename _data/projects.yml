@@ -19,6 +19,12 @@
   img: https://user-images.githubusercontent.com/24838521/106272406-5b27de80-6274-11eb-92dc-53fc45580432.png
   desc: I was a speaker at DroidKaigi 2020 which is one of the biggest conference in Japan tailored for developers
 
+- name: Contributor to RxSwift
+  url: https://github.com/ReactiveX/RxSwift/pull/2171
+  date: 2020/4/17
+  img: https://user-images.githubusercontent.com/24838521/106276296-ba88ed00-627a-11eb-961b-df8175f7b79a.png
+  desc: I added missing control events to UITableView for RxSwift.
+
 - name: MA Online Hackathon Audience Award
   url: https://note.com/hcrane/n/nae5a7c7f292f
   date: 2019/10/19-20
