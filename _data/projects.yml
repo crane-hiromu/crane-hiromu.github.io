@@ -7,10 +7,22 @@
   img: https://user-images.githubusercontent.com/24838521/106168682-e9975400-61d1-11eb-8e07-82f1f889ef27.png
   desc: We won the outstanding performance award in SPAJAM 2020 The 3rd Qualifying which is one of the biggest hackathon in Japan.
 
+- name: Speaker at iOSDC Japan 2020<br>- iOSリジェクト戦記 ~リジェクトされないための課金ページ~
+  url: https://www.youtube.com/watch?v=99JaW8DIZbo
+  date: 2020/9/19-21
+  img: https://user-images.githubusercontent.com/24838521/106269645-1e59e880-6270-11eb-95af-cc189d8d51fa.png
+  desc: I was a speaker at iOSDC Japan 2020 which is one of the biggest conference in Japan for engineers about iOS and related technologies.
+
+- name: Speaker at DroidKaigi 2020<br>- Scadeを使って「Swift」で始めるAndroidアプリ開発
+  url: https://www.youtube.com/watch?v=cUzA4YThK7s
+  date: 2020/8/27-29
+  img: https://user-images.githubusercontent.com/24838521/106272406-5b27de80-6274-11eb-92dc-53fc45580432.png
+  desc: I was a speaker at DroidKaigi 2020 which is one of the biggest conference in Japan tailored for developers
+
 - name: MA Online Hackathon Audience Award
   url: https://note.com/hcrane/n/nae5a7c7f292f
   date: 2019/10/19-20
-  img: https://user-images.githubusercontent.com/24838521/106154229-ba2d1b00-61c2-11eb-84fa-38494fc8c431.png
+  img: https://user-images.githubusercontent.com/24838521/106273044-5879b900-6275-11eb-834a-88ec83f67e98.png
   desc: We won the audience award in MA Online Hackathon which was held online.
 
 - name: Outstanding performance award in NRI Hackathon bit.Connect 2019
@@ -19,7 +31,7 @@
   img: https://user-images.githubusercontent.com/24838521/106142153-77fcdd00-61b4-11eb-81f4-d36690b6ec1b.jpg
   desc: We won the two award in NRI Hackathon bit.Connect 2019. One is the Technology Performance Award and the other is Theme Award.
 
-- name: Publication<br>「これからの「分析」の話をしよう」
+- name: Publication<br>- これからの「分析」の話をしよう
   url: https://booth.pm/ja/items/1567921
   date: 2019/9/12-
   img: https://user-images.githubusercontent.com/24838521/106179191-05a0f280-61de-11eb-8a01-056d93ce09f7.png
