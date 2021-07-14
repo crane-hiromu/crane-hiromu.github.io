@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Publication<br>- RAKUMA TECH BOOK Vol.1
+  url: https://techbookfest.org/product/5356051056558080
+  date: 2021/7/15-
+  img: https://user-images.githubusercontent.com/24838521/125667584-168a63c0-4f01-40e9-86c4-3046cf60089a.png
+  desc: This is a book about the engineering, design, and projects that go on in the field at Rakuma.
+
 - name: Outstanding performance award in SPAJAM 2020 The 3rd Qualifying
   url: https://github.com/crane-hiromu/SPAJAM2020_iOS_App
   date: 2020/10/3-4
