@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Workshop instructor at try! Swift Tokyo 2024<br>- Getting started with controlling LEGO using Swift
+- name: Workshop at try! Swift Tokyo 2024<br>- Getting started with controlling LEGO using Swift
   url: https://tryswift.jp/
   date: 2024/3/22-24
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/af8d6107-e965-4de7-a3ef-f4a25486eaaa
+  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/a18fdc03-0457-47b6-94f7-a41a6fdbfbdc
   desc: We taught how to control Bluetooth Low Energy devices such as LEGO using Swift and Core Bluetooth.
 
 - name: Speaker at iOSDC Japan 2023<br>- Live on iOSDC2023
   url: https://iosdc.jp/2023/
   date: 2023/9/1-3
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/06ad6a1c-2a77-4212-9196-db87d8da1422
+  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/7545cbef-a16d-4a90-bb05-f2e3a82d1cab
   desc: I performed a live demonstration connecting a guitar to a Mac and changing tones using Swift.
 
 - name: Speaker at iOSDC Japan 2022<br>- SwiftUI in UIKit で開発する世界, iPadOSDC Japan
   url: https://iosdc.jp/2022/
   date: 2022/9/10-12
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/2e519854-7d96-4eab-a5c7-f4f7f3aa64a8
+  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/11c2d910-57f7-4120-9417-acbe0305bbd6
   desc: I spoke at two sessions on Swift Playgrounds and SwiftUI in UIKit.
 
 - name: Speaker at DevRel/Japan CONFERENCE 2022<br>- DevRelファーストトライ
@@ -40,13 +40,13 @@
 - name: Speaker at DevRel/Japan CONFERENCE 2021<br>- 日本企業によるDevRel
   url: https://www.youtube.com/watch?v=p9MMl6Yu00w&ab_channel=DevRelTokyo
   date: 2021/11/13
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/1e17518b-fe34-44e7-a75f-3d6a4613538b
+  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/22a20185-fe35-4dfe-9ce1-3832dd5f5fce
   desc: I participated in a panel discussion alongside several individuals on the topic of DevRel (Developer Relations) initiatives undertaken by Japanese companies.
 
 - name: Speaker at iOSDC Japan 2021<br>- Initiatives in Rakuma iOS App
   url: https://iosdc.jp/2021/
   date: 2021/9/17-19
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/9dc98c71-fc60-4489-bc2f-406bfcd0b80f
+  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/c68eea0d-8603-4259-a064-ad79c04fcfea
   desc: I spoke about technical matters related to Rakuten Rakuma app at a conference.
 
 - name: Publication<br>- RAKUMA TECH BOOK Vol.1
