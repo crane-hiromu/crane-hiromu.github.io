@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Speaker at iOSDC Japan 2025<br>- Stream Deck Plugin using Swift
+  url: https://iosdc.jp/2025/
+  date: 2025/9/19-21
+  img: https://github.com/user-attachments/assets/16b90b65-70b1-4b9d-bbc6-e060725566d8
+  desc: I performed a live demonstration connecting a Stream Deck to a Mac.
+
 - name: Workshop at try! Swift Tokyo 2024<br>- Getting started with controlling LEGO using Swift
   url: https://tryswift.jp/
   date: 2024/3/22-24
