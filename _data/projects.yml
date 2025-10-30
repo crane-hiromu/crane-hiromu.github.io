@@ -4,104 +4,103 @@
 - name: Speaker at iOSDC Japan 2025<br>- Stream Deck Plugin using Swift
   url: https://iosdc.jp/2025/
   date: 2025/9/19-21
-  img: https://pwqvhtlsdtgfaqlwelhp.supabase.co/storage/v1/object/public/crane-hiromu.github.io-img/images/iosdc2025_2.png
+  img: /images/project/17_iosdc2025.png
   desc: I performed a live demonstration connecting a Stream Deck to a Mac.
 
 - name: Workshop at try! Swift Tokyo 2024<br>- Getting started with controlling LEGO using Swift
   url: https://tryswift.jp/
   date: 2024/3/22-24
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/a18fdc03-0457-47b6-94f7-a41a6fdbfbdc
+  img: /images/project/16_try_swift2024.png
   desc: We taught how to control Bluetooth Low Energy devices such as LEGO using Swift and Core Bluetooth.
 
 - name: Speaker at iOSDC Japan 2023<br>- Live on iOSDC2023
   url: https://iosdc.jp/2023/
   date: 2023/9/1-3
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/7545cbef-a16d-4a90-bb05-f2e3a82d1cab
+  img: /images/project/15_iosdc2023.png
   desc: I performed a live demonstration connecting a guitar to a Mac and changing tones using Swift.
 
 - name: Speaker at iOSDC Japan 2022<br>- SwiftUI in UIKit で開発する世界, iPadOSDC Japan
   url: https://iosdc.jp/2022/
   date: 2022/9/10-12
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/11c2d910-57f7-4120-9417-acbe0305bbd6
+  img: /images/project/14_iosdc2022.png
   desc: I spoke at two sessions on Swift Playgrounds and SwiftUI in UIKit.
 
 - name: Speaker at DevRel/Japan CONFERENCE 2022<br>- DevRelファーストトライ
   url: https://devrel.tokyo/japan-2022/
   date: 2022/8/5-6
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/2ee89ba4-5fa6-4034-a9af-7c84d0a9dddd
+  img: /images/project/13_devrel_con2022.png
   desc: I participated in a panel discussion on DevRel initiatives.
 
 - name: Publication<br>- 一冊で分かる！開発者コミュニティの作り方・育て方
   url: https://techbookfest.org/product/6257886411882496
   date: 2022/1/22-
-  img: https://user-images.githubusercontent.com/24838521/155868684-a1604f73-90df-4d99-9477-a56c165bbebd.png
+  img: /images/project/12_book_devrel.png
   desc: This is a book about developer communities.
 
 - name: Publication<br>- RAKUMA TECH BOOK Vol.2
   url: https://techbookfest.org/product/5736988181266432
   date: 2022/1/22-
-  img: https://user-images.githubusercontent.com/24838521/155868558-440da1c0-196e-4104-97fc-fa95f98ffca9.png
+  img: /images/project/11_rakuma_techbook_2.png
   desc: This is the second book about the engineering, design, and projects that go on in the field at Rakuma.
 
 - name: Speaker at DevRel/Japan CONFERENCE 2021<br>- 日本企業によるDevRel
   url: https://www.youtube.com/watch?v=p9MMl6Yu00w&ab_channel=DevRelTokyo
   date: 2021/11/13
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/22a20185-fe35-4dfe-9ce1-3832dd5f5fce
+  img: /images/project/10_devrel_con2021.png
   desc: I participated in a panel discussion alongside several individuals on the topic of DevRel (Developer Relations) initiatives undertaken by Japanese companies.
 
 - name: Speaker at iOSDC Japan 2021<br>- Initiatives in Rakuma iOS App
   url: https://iosdc.jp/2021/
   date: 2021/9/17-19
-  img: https://github.com/crane-hiromu/crane-hiromu.github.io/assets/24838521/c68eea0d-8603-4259-a064-ad79c04fcfea
+  img: /images/project/09_iosdc2021.png
   desc: I spoke about technical matters related to Rakuten Rakuma app at a conference.
 
 - name: Publication<br>- RAKUMA TECH BOOK Vol.1
   url: https://techbookfest.org/product/5356051056558080
   date: 2021/7/15-
-  img: https://user-images.githubusercontent.com/24838521/125667584-168a63c0-4f01-40e9-86c4-3046cf60089a.png
+  img: /images/project/08_rakuma_techbook_1.png
   desc: This is the first book about the engineering, design, and projects that go on in the field at Rakuma.
 
 - name: Outstanding performance award in SPAJAM 2020 The 3rd Qualifying
   url: https://github.com/crane-hiromu/SPAJAM2020_iOS_App
   date: 2020/10/3-4
-  img: https://user-images.githubusercontent.com/24838521/106168682-e9975400-61d1-11eb-8e07-82f1f889ef27.png
+  img: /images/project/07_pechakucher.png
   desc: We won the outstanding performance award in SPAJAM 2020 The 3rd Qualifying which is one of the biggest hackathon in Japan.
 
 - name: Speaker at iOSDC Japan 2020<br>- iOSリジェクト戦記 ~リジェクトされないための課金ページ~
   url: https://www.youtube.com/watch?v=99JaW8DIZbo
   date: 2020/9/19-21
-  img: https://user-images.githubusercontent.com/24838521/106269645-1e59e880-6270-11eb-95af-cc189d8d51fa.png
+  img: /images/project/06_iosdc2020.png
   desc: I was a speaker at iOSDC Japan 2020 which is one of the biggest conference in Japan for engineers about iOS and related technologies.
 
 - name: Speaker at DroidKaigi 2020<br>- Scadeを使って「Swift」で始めるAndroidアプリ開発
   url: https://www.youtube.com/watch?v=cUzA4YThK7s
   date: 2020/8/27-29
-  img: https://user-images.githubusercontent.com/24838521/106272406-5b27de80-6274-11eb-92dc-53fc45580432.png
+  img: /images/project/05_droidkaigi2020.png
   desc: I was a speaker at DroidKaigi 2020 which is one of the biggest conference in Japan tailored for developers
 
 - name: MA Online Hackathon Audience Award
   url: https://note.com/hcrane/n/nae5a7c7f292f
   date: 2019/10/19-20
-  img: https://user-images.githubusercontent.com/24838521/106273044-5879b900-6275-11eb-834a-88ec83f67e98.png
+  img: /images/project/04_remotemarriage.png
   desc: We won the audience award in MA Online Hackathon which was held online.
 
 - name: Outstanding performance award in NRI Hackathon bit.Connect 2019
   url: https://github.com/crane-hiromu/MARUCH-iOS
   date: 2019/10/19-20
-  img: https://user-images.githubusercontent.com/24838521/106142153-77fcdd00-61b4-11eb-81f4-d36690b6ec1b.jpg
+  img: /images/project/03_maruch.jpg
   desc: We won the two award in NRI Hackathon bit.Connect 2019. One is the Technology Performance Award and the other is Theme Award.
 
 - name: Publication<br>- これからの「分析」の話をしよう
   url: https://booth.pm/ja/items/1567921
   date: 2019/9/12-
-  img: https://user-images.githubusercontent.com/24838521/106179191-05a0f280-61de-11eb-8a01-056d93ce09f7.png
+  img: /images/project/02_book_analitics.png
   desc: This book was written with two major themes in mind, SwiftUI and analytics.
-
 
 - name: Outstanding performance award in SPAJAM 2018 Tokyo Qualifying
   url: https://prottapp.com/p/be80d0
   date: 2018/05/26-27
-  img: https://user-images.githubusercontent.com/24838521/106143372-06be2980-61b6-11eb-9ce9-7332363ef35d.png
+  img: /images/project/01_moneygame.png
   desc: We won the outstanding performance award in SPAJAM 2018 Tokyo Qualifying which is one of the biggest hackathon in Japan.
 
 
